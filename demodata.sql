@@ -1,0 +1,22 @@
+INSERT INTO students (first_name, last_name, age, grade, course, email, dob, blood_group, country)
+VALUES
+('Alice', 'Johnson', 20, 'A', 'Computer Science', 'alice.johnson@example.com', '2004-03-15', 'A+', 'USA'),
+('Bob', 'Smith', 22, 'B', 'Electrical Engineering', 'bob.smith@example.com', '2002-05-20', 'B+', 'Canada'),
+('Charlie', 'Davis', 19, 'A+', 'Mathematics', 'charlie.davis@example.com', '2005-01-10', 'O-', 'UK'),
+('Diana', 'Garcia', 21, 'B+', 'Physics', 'diana.garcia@example.com', '2003-07-12', 'AB+', 'Mexico'),
+('Ethan', 'Martinez', 23, 'C', 'Biology', 'ethan.martinez@example.com', '2001-11-02', 'A-', 'Brazil'),
+('Fiona', 'Lee', 20, 'A-', 'Chemistry', 'fiona.lee@example.com', '2004-09-25', 'B-', 'South Korea'),
+('George', 'Clark', 18, 'A', 'Computer Science', 'george.clark@example.com', '2006-06-18', 'O+', 'USA'),
+('Hannah', 'Lewis', 22, 'B', 'Mechanical Engineering', 'hannah.lewis@example.com', '2002-02-08', 'O-', 'UK'),
+('Ian', 'Walker', 19, 'A+', 'Economics', 'ian.walker@example.com', '2005-12-14', 'AB-', 'Australia'),
+('Jasmine', 'Hall', 21, 'C+', 'Sociology', 'jasmine.hall@example.com', '2003-08-30', 'A+', 'Germany'),
+('Kevin', 'Allen', 20, 'B-', 'Statistics', 'kevin.allen@example.com', '2004-10-22', 'B+', 'USA'),
+('Laura', 'Young', 23, 'A', 'Philosophy', 'laura.young@example.com', '2001-04-17', 'O-', 'France'),
+('Mike', 'Hernandez', 19, 'B+', 'Psychology', 'mike.hernandez@example.com', '2005-07-07', 'AB+', 'Spain'),
+('Nina', 'King', 21, 'A-', 'Anthropology', 'nina.king@example.com', '2003-03-03', 'A-', 'Italy'),
+('Oscar', 'Wright', 20, 'C', 'Political Science', 'oscar.wright@example.com', '2004-12-09', 'B-', 'USA'),
+('Paula', 'Lopez', 22, 'B+', 'Finance', 'paula.lopez@example.com', '2002-01-28', 'O+', 'Mexico'),
+('Quentin', 'Hill', 18, 'A+', 'Geography', 'quentin.hill@example.com', '2006-05-11', 'A+', 'Canada'),
+('Rachel', 'Scott', 23, 'A', 'Environmental Science', 'rachel.scott@example.com', '2001-09-19', 'B+', 'Germany'),
+('Steve', 'Green', 21, 'B-', 'Computer Science', 'steve.green@example.com', '2003-06-06', 'O-', 'UK'),
+('Tina', 'Adams', 20, 'C+', 'Art History', 'tina.adams@example.com', '2004-02-13', 'AB-', 'France');
